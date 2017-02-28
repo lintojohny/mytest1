@@ -440,3 +440,10 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 23ms (Views: 21.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-02-28 22:45:35 +0530
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 345ms (Views: 329.5ms | ActiveRecord: 0.0ms)
+
+
